@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.github.santos-i-guess</groupId>
-  <artifactId>core-i-guess</artifactId>
+  <artifactId>new-core-i-guess</artifactId>
   <version>master</version>
   <packaging>jar</packaging>
   
-  <name>core-i-guess</name>
-  <url>https://github.com/santos-i-guess/core-i-guess/</url>
+  <name>new-core-i-guess</name>
+  <url>https://github.com/santos-i-guess/new-core-i-guess/</url>
   
   <build>
     <finalName>${project.artifactId}</finalName>
